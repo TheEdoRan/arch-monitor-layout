@@ -9,5 +9,5 @@ unlink $HOME/.screenlayout &>/dev/null
 unlink $HOME/.config/autorandr &>/dev/null
 
 # Make links
-ln -sf ./files/autorandr $HOME/.config/autorandr
-ln -sf ./files/screenlayout $HOME/.screenlayout
+ln -sf $(pwd)/files/autorandr $HOME/.config/autorandr
+ln -sf $(pwd)/files/screenlayout $HOME/.screenlayout
