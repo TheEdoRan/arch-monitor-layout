@@ -1,6 +1,6 @@
 # Laptop
 
-**Asus VivoBook N580GD**
+**Asus VivoBook Pro N580GD**
 
 # Installation
 
