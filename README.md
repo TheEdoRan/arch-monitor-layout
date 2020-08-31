@@ -6,12 +6,7 @@
 
 Clone the repo and execute `./install`.
 
-<hr>
+## Auto-install with dotfiles
 
-## Auto install
-
-You can also run the auto-installation script without cloning this repo, using
-the following command: 
-```
-curl -L bit.ly/ter-arch-monitors | bash
-```
+It's also possible to get the `master` branch configuration with the [Arch
+Dotfiles](https://github.com/theedoran/arch-dotfiles) script.
